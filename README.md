@@ -22,7 +22,7 @@ This will start the backend server on port 3001.
 
 
 3. **Starting the React Server:**
-Navigate to the client directory and run:
+Navigate to the client_react directory and run:
 
 ```npm start```
 
@@ -40,7 +40,7 @@ This will start the react server on port 3000.
 ## Folder Structure
 
 - **server:** Contains the backend Node.js code.
-- **client:** Contains the frontend React code.
+- **client_react:** Contains the frontend React code.
 - **postgres:** Contains the code for storing data into database.
 
 ## Main Implementations
